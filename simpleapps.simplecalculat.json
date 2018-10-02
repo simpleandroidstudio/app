@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "day": 0,
+      "show": "true"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
